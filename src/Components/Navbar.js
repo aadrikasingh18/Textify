@@ -13,7 +13,7 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <Link to={'/Form'} className="nav-link">HOME</Link>
+              <Link to={'/'} className="nav-link">HOME</Link>
             </li>
             <li className="nav-item">
               <Link to={'/About'} className="nav-link">ABOUT</Link>
